@@ -1,7 +1,3 @@
-Below is an example README file for the VentureBook project. You can adjust details as needed:
-
----
-
 # VentureBook
 
 VentureBook is a modern web platform designed to empower entrepreneurs and innovators to share their ideas, connect with potential investors, and build a community of like‐minded professionals. This project provides a robust backend API built with Node.js, Express, and MongoDB, complete with secure authentication and user management features.
